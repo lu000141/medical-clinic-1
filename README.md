@@ -1,1 +1,0 @@
-# medical-clinic-1
